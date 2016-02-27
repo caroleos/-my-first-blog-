@@ -23,6 +23,11 @@
     	color: #009999;
     }
 
+    h2 {
+        font-family: 'Indie Flower', cursive;
+        color: #009999;
+    }
+
     .date {
         float: right;
         color: #828282;
